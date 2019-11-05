@@ -1,0 +1,8 @@
+etc/
+Include/
+Lib/
+Scripts/
+share/
+tcl/
+.ipynb_checkpoints/
+KGHM.prn
